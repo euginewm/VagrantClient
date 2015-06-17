@@ -1,0 +1,9 @@
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\bin\Debug\VagrantClient.exe.config
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\bin\Debug\VagrantClient.exe
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\bin\Debug\VagrantClient.pdb
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\bin\Debug\ProcessArgumentTools.dll
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\obj\Debug\VagrantClient.FormVagrantClient.resources
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\obj\Debug\VagrantClient.Properties.Resources.resources
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\obj\Debug\VagrantClient.csproj.GenerateResource.Cache
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\obj\Debug\VagrantClient.exe
+C:\Users\Eugen\Documents\Visual Studio 2013\Projects\VagrantClient\VagrantClient\obj\Debug\VagrantClient.pdb
